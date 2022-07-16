@@ -2,3 +2,6 @@
 elm-stuff
 # elm-repl generated files
 repl-temp-*
+elm
+Hello-world/elm.json
+Hello-world/src/Main.elm
